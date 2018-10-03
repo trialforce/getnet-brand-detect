@@ -1,0 +1,9 @@
+/nbproject/private/
+error.log
+config.php
+media/
+nbproject/
+small/*
+thumb/*
+storage/
+vendor/*

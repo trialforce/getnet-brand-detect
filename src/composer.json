@@ -1,0 +1,13 @@
+{
+    "name": "trialforce/getnet-brand-detect",
+    "description": "Utility to determine credit card type by PAN (Only for getnet brazilian e-commerce supported cards)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Bonfandini",
+            "email": "trialforce@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
